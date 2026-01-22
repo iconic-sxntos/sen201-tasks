@@ -50,3 +50,6 @@ Future improvements may include voter authentication, database storage, and a gr
 2. Open a terminal in the project folder
 3. Run the program using:
 Python 3
+```bash
+python online_voting_system.py
+
